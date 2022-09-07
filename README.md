@@ -1,13 +1,15 @@
-# Architectural Decision Log
+# Assemble Architectural Decision Log
 
-This log lists the architectural decisions for [project name].
+This log lists the architectural decisions for Assemble.
 
-<!-- adrlog -- Regenerate the content by using "adr-log -i". You can install it via "npm install -g adr-log" -->
+<!-- adrlog -- Regenerate the content by using "adr-log -d decisions/systems -i README.md". You can install it via "npm install -g adr-log" -->
 
-- [ADR-0000](0000-use-markdown-architectural-decision-records.md) - Use Markdown Architectural Decision Records
+
 
 <!-- adrlogstop -->
 
-For new ADRs, please use [template.md](template.md) as basis.
+For new ADRs, please use [template.md](decisions/template.md) as basis and read [community.md](community.md) for additional contribution guidance.
+
+
 More information on MADR is available at <https://adr.github.io/madr/>.
 General information about architectural decision records is available at <https://adr.github.io/>.
