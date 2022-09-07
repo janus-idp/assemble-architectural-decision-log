@@ -5,7 +5,7 @@
 ## Context and Problem Statement
 
 
-An Internal Developer Platform is a system of components working together to provide a Developer Experience. A good Developer Experience requires a user-friendly interface through which a developer can interact with the system. We must agree on a set of conventions for implementing and packaging user-interface components.
+An [Internal Developer Platform](../../README.md#internal-developer-platform) is a system of components working together to provide a Developer Experience. A good [Developer Experience](../../README.md#developer-experience) requires a user-friendly interface through which a developer can interact with the system. We must agree on a set of conventions for implementing and packaging user-interface components.
 
 
 ## Considered Options
