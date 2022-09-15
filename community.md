@@ -9,6 +9,7 @@ This log lists the decisions related to project operations and community contrib
 <!-- adrlog -- Regenerate the content by using "adr-log -d decisions/community -i community.md". You can install it via "npm install -g adr-log" -->
 
 * [ADR-0000](decisions/community/0000-use-markdown-architectural-decision-records.md) - Use Markdown Architectural Decision Records
+* [ADR-0001](decisions/community/0001-definition-of-done.md) - Definition of Done
 
 <!-- adrlogstop -->
 
