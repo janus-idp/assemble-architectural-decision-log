@@ -10,6 +10,7 @@ This log lists the decisions related to project operations and community contrib
 
 * [ADR-0000](decisions/community/0000-use-markdown-architectural-decision-records.md) - Use Markdown Architectural Decision Records
 * [ADR-0001](decisions/community/0001-definition-of-done.md) - Definition of Done
+* [ADR-0002](decisions/community/0002-licensing.md) - Which Open Source Software License Should We Use?
 
 <!-- adrlogstop -->
 
